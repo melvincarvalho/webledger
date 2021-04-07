@@ -1,3 +1,5 @@
 {
-  "name": "Wallet of Melvin"
+  "name": "Wallet of Melvin",
+  "webledger": "./webledger.json",
+  "publickey": "03ada726b18a9d588ac7de241950ba2d4819fc9e15941b214bb8e447361d52eeb1"
 }
